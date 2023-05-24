@@ -1,4 +1,5 @@
-const msg = document.getElementById('msg');
-const img = document.getElementById('img');
-var ola = msg.innerText
-document.write
+function enviar() {
+    const idade = document.getElementById('idade');
+    
+
+}
